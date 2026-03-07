@@ -3,7 +3,7 @@ body{
 /* Essa parte = cores das letras*/
 color: white;
 /* Essa parte  = cor fundo*/
-background-color: rgba(0, 0, 0, 0.929);
+background-color: rgb(0, 0, 0);
 
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet', sans-serif;
 } 
@@ -24,6 +24,15 @@ a {
     text-decoration: none;
 }
 header img{
+    margin-bottom: 60px;
+    margin-top: 60px;
+
+    margin-left: 19px;
+    display: inline-block;
+    margin-right: auto;
+    
+
+
     width: 150px; 
     height: 150px;
     border-radius: 50%;
@@ -36,7 +45,7 @@ header img{
 
 }
 h1 {
-    margin-top: 30px;
+    margin-top: -20px;
     color: rgb(59, 255, 5);
 
 }
@@ -61,7 +70,7 @@ footer p {
  margin-top: 6px; 
 }
 .container{
-    padding:0px 50px
+    padding: 0px 50px
 }
 nav a:hover{
 color: rgb(59, 255, 5) ;
@@ -69,8 +78,73 @@ color: rgb(59, 255, 5) ;
 }
 h4{
     margin-top: -20px;
+    margin-bottom: 150px;
 }
 
 h2{
+    color: rgb(59, 255, 5) ;
     margin-top: 50px;
+    font-size: 25px;
 }
+.alinhamentoh3{
+
+    display:flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.alinhamentoh3 h3{
+
+    color: rgb(59, 255, 5) ;
+    margin: 0;
+}
+.alinhamentoh3 p{
+
+    margin: 0;
+    
+}
+.alinp {
+    gap: 30px;
+}
+.alinp p{
+    margin-top: -20px;
+    font-size: 21px;
+    margin-bottom: 70px;
+}
+.alinp h2{
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+main h2:hover{
+color: rgba(73, 190, 40, 0.521) ;
+
+}
+main h3:hover{
+color: rgb(73, 190, 40, 0.521) ;
+
+}
+.rodape {
+    
+    width:100%;           /* Largura */
+    margin-top: 180px;          /* Altura */
+    background-color: rgb(20, 19, 19); /* O verde do seu h1 */
+    margin-bottom: 20px;          /* Espaçamento igual aos links */
+    
+    /* Opcional: se quiser pontas levemente arredondadas */
+    border-radius: 4px; 
+}
+.alinb {
+    display: flex;
+    color: white;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+
+}.alinb p{
+    margin: 0 ;
+}
+
