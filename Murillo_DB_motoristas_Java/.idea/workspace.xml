@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a65ac63a-086d-46df-89bb-f51b6ccc2202" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Murillo_DB_motoristas_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Motorista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/Html/motoristas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/Html/motoristas.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/Html/motoristas.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +65,19 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Murillo_DB_motoristas_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Murillo_DB_motoristas_Java" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,6 +95,9 @@
       <updated>1772722155953</updated>
       <workItem from="1772722157031" duration="2662000" />
       <workItem from="1772808783141" duration="3851000" />
+      <workItem from="1772881145238" duration="619000" />
+      <workItem from="1772898603874" duration="41000" />
+      <workItem from="1772980242713" duration="2000" />
     </task>
     <servers />
   </component>
