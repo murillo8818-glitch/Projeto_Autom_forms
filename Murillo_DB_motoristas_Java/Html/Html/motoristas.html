@@ -8,6 +8,8 @@
     <meta charset="UTF-8">
 <!--   -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!--  titulo do site (navegador) -->
     <title>Motoristas</title>
 <!-- Adicioinando o link do CSS de ref  -->
@@ -17,106 +19,189 @@
 <!--corpo do site-->
 <body>
 <!--Adicioinando o link do JavaScript de ref-->
-        <script src="motoristas.js"></script>
+ <nav>    <button></button>        <button></button>            </nav>        
 
+        
 
+<nav id= "sidebar">
+<!--    ----------------------------------------------------------    ---->
+    <div id="sidebar_content">
+<!--    ----------------------------------------------------------    ---->        
+        <div id="user">
+<!--    ----------------------------------------------------------    ---->           
+            <img src="./img/Murillo.jpg" id= "user_avatar"alt="Avatar">
+                <p id="user_infos">
+                        <span class="item-description">
+                            fulano de tal 
+                            </span>
 
-         <nav>
-    <button></button>
+                            <span class="item-description">
+                            descriçao do fulano
+                        </span>
+                    </p>
+                </div>       
+<!--    ----------------------------------------------------------    ----> 
+
+            <ul id="side_items">
+                <li class="side-item active">
+                    <a href="#">
+                        <i class="fa-solid fa-chart-line" style="color: rgb(255, 255, 255);"></i>
+                    <span class="item-description">
+                        Dashbord
+                    </span>
+                    </a>
+                </li>
+<!--    ----------------------------------------------------------    ---->
+
+            <li class="side-item active">
+                <a href="#">
+                    <i class="fa-solid fa-user" style="color: rgb(255, 255, 255);"></i>
+                        <span class="item-description">
+                            Usuarios
+                        </span>
+                    </a>
+                </li>
+<!--    ----------------------------------------------------------    ---->
+
+            <li class="side-item active">
+                <a href="#">
+                    <i class="fa-solid fa-bell" style="color: rgb(255, 255, 255);"></i>
+                        <span class="item-description">
+                            Notificações
+                        </span>
+                    </a>
+                </li>
+<!--    ----------------------------------------------------------    ---->
+
+            <li class="side-item active">
+                <a href="#">
+                    <i class="fa-solid fa-box" style="color: rgb(255, 255, 255);"></i>                    <span class="item-description">
+                        <span class="item-description"> 
+                             Prudutos
+                        </span>
+                    </a>
+                </li>
+<!--    ----------------------------------------------------------    ---->
+
+            <li class="side-item active">
+                <a href="#">
+                    <i class="fa-solid fa-file-image" style="color: rgb(255, 255, 255);"></i>
+                        <span class="item-description">
+                            imagens
+                        </span>
+                    </a>
+                </li>
+<!--    ----------------------------------------------------------    ---->
+
+                <li class="side-item active">
+                <a href="#">
+                    <i class="fa-solid fa-gear" style="color: rgb(255, 255, 255);"></i>
+                        <span class="item-description">
+                            Configurações
+                        </span>
+                    </a>
+                </li>
+            </ul>
+<!--    ----------------------------------------------------------    ---->
+
+    <button id="open_btn">
+    <i id= open_btn_icon class="fa-solid fa-chevron-right" style="color: rgb(0, 0, 0);"></i>
+    </button>
+
+<!--    ---------------- Encerramento ----------------------------    ---->
+</div>
+<!--    ---------------- Encerramento ----------------------------    ---->  
     
-    <button></button>
-            </nav>
+            <div id="logout">
+                <button id="logout_btn">
+                    <i class="fa-solid fa-arrow-right-from-bracket" style="color: rgb(255, 255, 255);"></i>
+                    <span class= "item-description">
+                        Logout
+                    </span>
+                </button>
+            </div>
+<!--    ----------------------------------------------------------    ---->            
+        </nav>
+<!--    ----------------------------------------------------------    ---->
 
     <div class="container">
- <nav>
-        <ul>
-            <li>
-                <a>Sobre o site</a>
-                </li>
-                <li>
+
+
+
+        <nav>
+            <ul>               
+                <li class="xs">
+                    <a>Sobre o site</a>
+                        </li>
+
+                <li class="xs">
                     <a>detalhes do site</a>
-                </li>
-                <li>
+                        </li>
+
+                <li class="xs">
                     <a>Saiba mais</a>
-            </li>
-        </ul>
-    </nav>
+                        </li>   
+            </ul>
+        </nav>
+
+
 
     <header>
         <div class="center"> 
             <img src="./img/Murillo.jpg"></img>
-        
-             <h1> MOTORISTAS / CENTRO DE CONTROLE </h1>
-                <h4> From: Murillo Augusto </h4>
-                </div>
+                 <h1> MOTORISTAS / CENTRO DE CONTROLE </h1>
+            <h4> From: Murillo Augusto </h4>
+        </div>
     </header>
 
 <main>
+
     <section>
         <div class="alinp">
-            <h2>
-                OBJETIVO DO PROJETO
-            </h2>
-                <p>
-                Objetivo principal consiste em aprender e desenvolver habilidades com sites na (construção estilização e funcionamento) tanto em JAVA e seus metodos, sintaxe, estrutura de classes e armazenamento de informções , quanto no HTML e sua Hieraquia e sintaxe 
-          </p>
-          </div>
-</section>
+            <h2>OBJETIVO DO PROJETO</h2>
+            <p>Objetivo principal consiste em aprender e desenvolver habilidades com sites na (construção estilização e funcionamento) tanto em JAVA e seus metodos, sintaxe, estrutura de classes e armazenamento de informções , quanto no HTML e sua Hieraquia e sintaxe</p>
+        </div>
+    </section>
 
-<section>
-    <div class="alinp">
-        <h2 >ESTRUTURA</h2>
-        <p>
-           Aquise sera criado um site onde havera a entrada de dados cadastrais dos Motoristas, sendo operado ate o momento com:
-            </p>
+    <section>
+            <div class="alinp">
+                <h2 >ESTRUTURA</h2>
+                <p>Aquise sera criado um site onde havera a entrada de dados cadastrais dos Motoristas, sendo operado ate o momento com:</p>
             </div>
+
             <div class="alinhamentoh3">
-                <h3>
-                FRONTEND
-                    </h3>
-                        <P>
-                     Em HTML e CSS
-                     </P>
-                     </div>
-                     <div class="alinhamentoh3">
-                <h3>
-                 BACKEND
-                    </h3>
-                         <P>
-                         Em JAVA (Sem Spring Boot)
-                     </P>
-                     </div>
-     </section>
-   
-    </main>
+                <h3>FRONTEND</h3>
+                <P>Em HTML e CSS</P>
+            </div>
+
+            <div class="alinhamentoh3">
+                <h3>BACKEND</h3>
+                <P>Em JAVA (Sem Spring Boot)</P>
+            </div>
+    </section>
+
+</main>
  
-        <footer>
+<footer>
             
-            <div class="rodape">
-                <div class="alinb">
-            <a   href="https://github.com/murillo8818-glitch" target="_blank" rel="noopener noreferrer">
-                
+    <div class="rodape">
+        <div class="alinb">
+            <a href="https://github.com/murillo8818-glitch" target="_blank" rel="noopener noreferrer"> 
                 <img src="./img/github.svg"></img>
-           <p>Github</p>
+                <p>Github</p>
             </a>
-            
 
-
-
-        <footer>
-            
-                
-            <a   href="https://www.linkedin.com/in/murillo-augusto-8826a925a/" target="_blank" rel="noopener noreferrer">
-                
+        <footer>                 
+            <a href="https://www.linkedin.com/in/murillo-augusto-8826a925a/" target="_blank" rel="noopener noreferrer">
                 <img src="./img/linkedin.svg"></img>
-           <p>Linkedin</p>
+                <p>Linkedin</p>
             </a>
-           
-            
+</footer>
 
-        </footer>
+            </div>
+        </div>
 
-    </div>
-   </div>
+    <script src="motoristas.js"></script>
 </body>
+
 </html>
