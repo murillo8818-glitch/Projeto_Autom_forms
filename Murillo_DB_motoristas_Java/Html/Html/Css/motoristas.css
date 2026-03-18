@@ -36,10 +36,9 @@ background-color: rgb(0, 0, 0);
 /*---------------------------------------------------------------------------*/
 
 
-
 nav a:hover{
 color: rgb(59, 255, 5) ;
-}
+} 
 /*---------------------------------------------------------------------------*/
 
 /*Esses elemntos são os gerais como h1 todos os texto do tipo 
@@ -67,14 +66,7 @@ h2{
 /*---------------------------------------------------------------------------*/
 
 /*---------------------------------------------------------------------------*/
-/*Aqui ja antramos dentro do nosso <Section>*/
-.alinhamentoh3{
-    display:flex;
-    align-items: center;
-    gap: 10px;
-    margin-top: 30px;
-    margin-bottom: 10px;
-}
+
 
 
 .alinhamentoh3 h3{

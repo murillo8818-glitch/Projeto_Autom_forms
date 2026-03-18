@@ -2,11 +2,20 @@ document.getElementById('open_btn').addEventListener('click',function () {
     document.getElementById('sidebar').classList.toggle('open-sidebar');     
 });
  
+const amrzenarCadastros = []; 
+var nome; 
 
-// criando variavel 
+class motororistas {
 
-let Nomes = "Cachorro loko"
-let arrays = [54, "cachorro loko"]
+  //  informações pessoais 
 
-//Linguagem doida da cabeça 
-let lista = {"cachorro logo" : 54}
+CPF = this.cpf; 
+NOME = this.nome;  
+DATA_NASC = this.data_nasc; 
+
+}
+function motoristaF(class motoristas) {
+    constructor(CPF,NOME,DATA_NASC) 
+} 
+    
+} 
