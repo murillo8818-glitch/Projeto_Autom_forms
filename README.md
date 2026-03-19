@@ -82,20 +82,20 @@ SOBRE MIM:
 
 Primeiro gostaria de me apresentar; Murillo 20 anos cursando ADS (Analise e desenvolvimento de sistemas)
 Iniciei meus estudos em engenharia civil em 2024 atraves de uma bolsa de estudos que ganhei em Uberlandia 
-onde fiz 2 semestres desde então começei a buscar oportunidades profissionais em construtoras e empresas d
-a região entrando na Britvic brasil apos ser dispensado da empresa para concluir minhas obrigções milita
-res mudei meu curso para araguari onde fiz 3 semestres o que fez com que eu tivesse um contato com as teo
-rias matematicas muito forte pq tive que fazer calculo 1 e 2 nas duas instituições devido a imcompatibili
-dade das grades e fui novamente ao mercado de trabalho onde trablhei em uma cosntrutora de medio porte com
+onde fiz 2 semestres desde então começei a buscar oportunidades profissionais em construtoras e empresas da 
+região entrando na Britvic brasil apos ser dispensado da empresa para concluir minhas obrigções militares 
+mudei meu curso para araguari onde fiz 3 semestres o que fez com que eu tivesse um contato com as teorias
+matematicas muito forte pq tive que fazer calculo 1 e 2 nas duas instituições devido a imcompatibilidade das
+grades e fui novamente ao mercado de trabalho onde trabalhei em uma cosntrutora de medio porte com
 a parte juridica e em uma epresa familiar de pequeno porte onde eu vi como eu gostava de lidar com planilhas
-e dados de uma forma mais abstrata aplicando conceitos matematicos como intersecções de duas variaveis poder
--iam me mostrar resultados possiveis e como eu gostava de solucionar problemas e percebi tambem que a parte 
+e dados de uma forma mais abstrata aplicando conceitos matematicos como intersecções de duas variaveis poderiam 
+me mostrar resultados possiveis e como eu gostava de solucionar problemas e percebi tambem que a parte 
 Civil da engenharia não me era muito atraente então por conselhos da minhas esposa e amigos decidi aprender a
 tratar dados com python minha esposa e desenvolvedora; desde então me apaixonei por programção com uma simples
 pergunta: " como apenas a diferença de -e eletrons na ultima camada de valencia (eleticidade) pode criar propo
-sições logicas? " desde então venho me aprofundando em tratamentos de dados desenvolvimento depaginas web apre
-ndendo com cursos de fundações como Bradesco, Itaul e Google sobre esses assuntos e sem axilio de IAs para es
-crever meus codigos tenho muito interesse na area e meu proposito como profissional e realmente aprender no meu 
+sições logicas? " desde então venho me aprofundando em tratamentos de dados desenvolvimento depaginas web aprendendo 
+com cursos de fundações como Bradesco, Itaul e Google sobre esses assuntos e sem axilio de IAs para escrever meus 
+codigos tenho muito interesse na area e meu proposito como profissional e realmente aprender no meu 
 ultimo emprego na FrioLog - Triangulo mineiro que mudou de cidade por isso preferi sair devidos aos meus estudos
 serem presenciais aprendi a magia de como uma pequena equipe bem preparada consegue obter resultados extraordinarios
 eramos apenas 5 onde todos os dias exportavamos 100 toneladas de produtos planejavamos as rotas cadastros (meu setor
