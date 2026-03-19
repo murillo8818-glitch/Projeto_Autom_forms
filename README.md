@@ -95,7 +95,7 @@ tratar dados com python minha esposa e desenvolvedora; desde então me apaixonei
 pergunta: " como apenas a diferença de -e eletrons na ultima camada de valencia (eleticidade) pode criar proposições
 logicas? " desde então venho me aprofundando em tratamentos de dados, desenvolvimento de paginas web, prosições logicas
 aprendendo com cursos de fundações como Bradesco, Itaul e Google sobre esses assuntos e sem axilio de IAs para escrever meus 
-codigos tenho muito interesse na area e meu proposito como profissional e realmente aprender;
+codigos tenho muito interesse na area e meu proposito como profissional e realmente aprender e ajudar;
 
 no meu 
 ultimo emprego na FrioLog - Triangulo mineiro que mudou de cidade por isso preferi sair devidos aos meus estudos
