@@ -99,7 +99,7 @@ codigos tenho muito interesse na area e meu proposito como profissional e realme
 
 no meu 
 ultimo emprego na FrioLog - Triangulo mineiro que mudou de cidade por isso preferi sair devidos aos meus estudos
-serem presenciais aprendi a magia de como uma pequena equipe bem preparada consegue obter resultados extraordinarios
+serem presenciais; Aprendi como uma pequena equipe bem preparada consegue obter resultados extraordinarios
 eramos apenas 5 onde todos os dias exportavamos 100 toneladas de produtos planejavamos as rotas cadastros (meu setor
 a poposito) acompanhamento e resolução de problemas imprevisiveis num domingo a noite e vendo como muitas pessoas
 a minha volta perdiam horas dos seus dias para preencher planilhas e criar relatorios decidi criar essa aplicação
