@@ -85,7 +85,7 @@ Iniciei meus estudos em engenharia civil em 2024 atraves de uma bolsa de estudos
 onde fiz 2 semestres desde então começei a buscar oportunidades profissionais em construtoras e empresas da 
 região entrando na Britvic brasil apos ser dispensado da empresa para concluir minhas obrigções militares 
 mudei meu curso para araguari onde fiz 3 semestres o que fez com que eu tivesse um contato com as teorias
-matematicas muito forte pq tive que fazer calculo 1 e 2 nas duas instituições devido a imcompatibilidade das
+matematicas muito forte pq tive que fazer calculo 1 e 2 nas duas instituições devido a incompatibilidade das
 grades e fui novamente ao mercado de trabalho onde trabalhei em uma cosntrutora de medio porte com
 a parte juridica e em uma epresa familiar de pequeno porte onde eu vi como eu gostava de lidar com planilhas
 e dados de uma forma mais abstrata aplicando conceitos matematicos como intersecções de duas variaveis poderiam 
