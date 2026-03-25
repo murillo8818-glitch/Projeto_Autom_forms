@@ -1,0 +1,64 @@
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" );
+
+
+
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+    
+#container1{
+    background-color:rgb(44, 44, 44);
+    color:  rgb(11, 255, 44);
+    text-align: center;
+    height: 50px;
+    margin-top:25px ;
+    border-radius: 8px;
+  
+}
+
+#textoUser{
+    
+    
+    text-align: center;
+    color: rgb(11, 255, 44);
+}
+
+/*
+.textoh4user{
+    gap: -150px; 
+    margin-top: -500px;
+}
+
+*/
+
+#usuariosMenu{
+    height: 500px;
+background-color:rgb(39, 39, 39) ;
+border-radius: 8PX;
+}
+
+body{
+      align-items: center;
+}
+#textoh1user{
+        text-align: center;
+    color: rgb(11, 255, 44);
+}
+#usuariosMenu ul{
+    margin-top: 150px;
+
+text-align: left;
+
+}
+
+
+
+
+#usuariosMenu label {
+align-items: center;
+
+}
