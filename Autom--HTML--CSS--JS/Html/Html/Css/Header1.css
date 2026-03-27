@@ -5,14 +5,21 @@
 header img{
     margin-bottom: 60px;
     margin-top: 60px;
-    margin-left: 19px;
+    margin-left: 43%;
     display: inline-block;
     margin-right: auto;
-    width: 150px; 
-    height: 150px;
-    border-radius: 50%;
-    border: 5px solid rgb(59, 255, 5) ;
-}
+    width: 250x; 
+    height: 250px;
+    border-radius: 0;
+    border: 2px solid rgb(255, 255, 255);
+    box-shadow: none;
+   border: none;
+  background: radial-gradient(circle at center 50%, transparent 45%, #ffffff 46%, #ffffff 48%, transparent 49%),
+                radial-gradient(circle at center 50%,transparent 30%, rgba(100, 220, 160, 0.4) 49%, transparent 60%);
+    
+    position: relative;
+    z-index: 1;
+} 
 /*
 
 class center para alinharmos oque estamos ultilizando ou aintrodução do site
@@ -21,10 +28,17 @@ ento precisamos adicionar suas proprias Propriedades
 
 */
 /*essa e responsavel pelo alinhamento da Header ou a imagem e o 1° texto */
-.center {
+.center  {
+    display: flex;
+    flex-direction: column;
     align-items: center;
-    
 }
+
+
+
+
+
+
 
 /*se eu quiser alter ceparadamente as informações perciso criar uma:
 SUBCLASS */
@@ -40,16 +54,16 @@ SUBCLASS */
  /*Oque esta aqui dentro obrigatoriamente vai seguir o center */
  
 header h3:hover{
-color: rgb(59, 255, 5) ;
+color: rgb(100, 220, 160) ;
 }
 header h4:hover{
-color: rgb(59, 255, 5) ;
+color: rgb(100, 220, 160) ;
 
 }
 
 
 header h1:hover{
-color: rgb(30, 87, 14) ;
+color: rgb(31, 71, 51) ;
 
 }
 
@@ -78,4 +92,14 @@ a {
     gap: 10px;
     margin-top: 30px;
     margin-bottom: 10px;
+}
+header{.center h1 {
+justify-content: center;
+text-align: center;
+align-items: center;
+align-content: center;
+
+}}
+main{
+    justify-content: space-between;
 }

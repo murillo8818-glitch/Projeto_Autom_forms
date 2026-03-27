@@ -10,7 +10,7 @@ footer img {
     background-color: white;
     width: 40px;
     height: 40px;
-    border-radius: 50%;
+    border-radius: 5px;
 }
 
 footer {
@@ -27,9 +27,6 @@ footer p {
  margin-top: 6px; 
 }
 
-footer{
-    padding-left: 140px;
-}
 
 
 
