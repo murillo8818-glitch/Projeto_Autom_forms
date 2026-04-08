@@ -10,7 +10,7 @@
 *{
     padding: 0;
     box-sizing: border-box;
-    font-family: 'inter';
+    font-family: 'Signika negative';
 }
 
 body{
@@ -27,7 +27,7 @@ flex-direction: column;
 justify-content: space-between;
 background-color: rgb(20, 19, 19);
 /*   height: 178vh;   adaptativo */
-height: 2340px;
+height: 1150px;
 border-radius: 0px 18px 18px 0px;
 position: relative;
 transition: all .5s;
@@ -96,7 +96,7 @@ font-size: 12px;
 
 
 .side-item {
- background-color: rgb(15, 15, 15);
+ background-color: rgb(13, 18, 16);
  box-shadow: 1px 1px 5px rgb(100, 220, 160);
   border: 1px solid rgb(255, 255, 255);
 }

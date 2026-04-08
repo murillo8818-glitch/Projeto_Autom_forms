@@ -31,7 +31,7 @@
 <!--    ----------------------------------------------------------    ---->           
             <img src="./img/avatar.png" id= "user_avatar"alt="Avatar">
                 <p id="user_infos">
-                        <span class="item-description active">
+                        <span class="item-description">
                             Murillo Augusto  
                             </span>
 
@@ -45,9 +45,9 @@
             <ul id="side_items">
                 <li class="side-item ">
                     <a href="pag-02.HTML">
-                        <i class="fa-solid fa-chart-line" style="color: rgb(100, 220, 160);"></i>
+                       <i class="fa-solid fa-user" style="color: rgb(100, 220, 160)"></i>
                     <span class="item-description">
-                        Usuarios
+                        Meu usuario
                     </span>
                     </a>
                 </li>
@@ -55,9 +55,10 @@
 
             <li class="side-item ">
                 <a href="#">
-                    <i class="fa-solid fa-user" style="color: rgb(100, 220, 160)"></i>
+                    
+                     <i class="fa-solid fa-flask" style="color: rgb(100, 220, 160)"></i>
                         <span class="item-description">
-                            Cadastros
+                            Meus Cadastros
                         </span>
                     </a>
                 </li>
@@ -65,9 +66,9 @@
 
             <li class="side-item ">
                 <a href="#">
-                    <i class="fa-solid fa-bell" style="color: rgb(100, 220, 160);"></i>
+                    <i class="fa-solid fa-plus" style="color:  rgb(100, 220, 160);"></i>
                         <span class="item-description">
-                            Notificações
+                            Adiconar Usuarios
                         </span>
                     </a>
                 </li>
@@ -75,7 +76,7 @@
 
             <li class="side-item ">
                 <a href="#">
-                    <i class="fa-solid fa-box" style="color: rgb(100, 220, 160);"></i>                   
+                    <i class="fa-solid fa-flask-vial" style="color: rgb(100, 220, 160);"></i>                   
                         <span class="item-description"> 
                              Editar usuarios
                         </span>
@@ -133,15 +134,15 @@
         <nav>
             <ul>               
                 <li class="container1">
-                    <a>Sobre o site</a>
+                    <a href = "saiba-mais.html">Sobre o site</a>
                         </li>
 
                 <li class="container1">
-                    <a>detalhes do site</a>
+                    <a href = "saiba-mais.html">detalhes do site</a>
                         </li>
 
                 <li class="container1">
-                    <a>Saiba mais</a>
+                    <a href = "saiba-mais.html">Saiba mais</a>
                         </li>   
             </ul>
         </nav>
@@ -153,91 +154,22 @@
             <img  src="./img/avatar.png"></img>
                 <h1 > PROJETO USUARIOS</h1>
                  <h3 > MAIS DETALHES DO PROJETO E SEU OBJETIVO </h3>
-            <h4> From: Murillo Augusto </h4>
+            <h4> <a href="saiba-mais.html">From: Murillo Augusto</a> </h4>
         </div>
     </header>
 
 <main>
 
-    <section>
-        <div class="alinp">
-            <h2>OBJETIVO DO PROJETO</h2>
-            <p>Esse aplicativo não é apenas um banner digital, e sim um site funcional desenvolvido para automatizar processos, receber informações, organizar dados e apresentar tudo de forma simples e intuitiva para o usuário.
-
-O principal objetivo é facilitar o acesso e o uso, tornando a experiência o mais prática possível. Mesmo com tantas fontes de aprendizado hoje, como o YouTube, ainda existem muitas pessoas que passam anos realizando tarefas repetitivas, como preenchimento manual de planilhas no Excel. A proposta aqui é justamente reduzir esse tempo e esforço através da automação.
-
-O sistema será capaz de receber informações cadastrais de usuários, gerenciar esses dados e automatizar processos, utilizando tecnologias como SQL, Java e JavaScript no backend, e HTML, CSS e JavaScript no frontend.
-
-A ideia é permitir que o usuário consiga preencher formulários de maneira mais prática, podendo apenas inserir um link de site ou aplicativo, e o sistema fará o cadastro automaticamente (com uso de IA) ou manualmente, caso o usuário prefira definir o caminho dos dados.
-
-O projeto não tem como foco ser extremamente técnico ou complexo, mas sim acessível e útil para qualquer pessoa curiosa que queira automatizar seus próprios processos. Além disso, será possível gerenciar usuários cadastrados, visualizar métricas através de dashboards (como Power BI) e acompanhar os dados sendo atualizados automaticamente.
-
-Entre as funcionalidades estão:
-
-* Criar, editar e excluir usuários
-* Gerenciar informações de forma automatizada
-* Entender o fluxo completo dos dados
-* Trabalhar com requisições web e comunicação entre frontend e backend
-
-O funcionamento do sistema será dividido em etapas:
-01 - Requisições na web
-02 - Entrada de dados
-03 - Estruturação
-04 - Organização dos dados
-05 - Comunicação entre frontend e backend
-06 - Suporte ao usuário
-07 - Funcionamento e adaptação para novos usos
-
-Após a finalização, todo o processo será documentado aqui, mostrando o caminho completo dos dados, desde a entrada até o preenchimento automático de formulários, além da armazenagem e segurança das informações.
-</p>
-        </div>
-    </section>
-
-    <section>
+   <section>
             <div class="alinp">
-                <h2 >ESTRUTURA</h2>
+                <h2 >Central de Automções</h2>
                 <p>
-01 - Requisições na web
-O sistema inicia com requisições HTTP feitas pelo usuário ou automaticamente pelo sistema, buscando ou enviando dados entre aplicações e serviços externos.
-
-02 - Entrada de dados
-Os dados podem ser inseridos manualmente pelo usuário ou capturados automaticamente através de links, formulários ou integração com outras plataformas.
-
-03 - Armazenamento
-Todas as informações são armazenadas em banco de dados (SQL), garantindo persistência, organização e segurança dos dados cadastrados.
-
-04 - Organização dos dados
-Os dados são estruturados e organizados de forma lógica, permitindo fácil acesso, edição e reutilização dentro do sistema.
-
-05 - Comunicação entre frontend e backend
-O frontend (interface do usuário) se comunica com o backend através de requisições, enviando e recebendo dados para execução das funcionalidades do sistema.
-
-06 - Processamento e automação
-O backend realiza o processamento das informações, aplicando regras de negócio e automatizando tarefas como preenchimento de formulários e cadastro de usuários.
-
-07 - Visualização e controle
-Os dados processados são apresentados ao usuário de forma simples, incluindo dashboards, métricas e relatórios para melhor tomada de decisão.
-
-08 - Suporte ao usuário
-O sistema oferece suporte para auxiliar o usuário no uso das funcionalidades, garantindo acessibilidade e entendimento do processo.
-
-09 - Evolução e adaptação
-O sistema é pensado para evoluir com o tempo, permitindo novas funcionalidades, integrações e melhorias contínuas.
-
-Após a finalização, todo o processo será documentado aqui, mostrando o caminho completo dos dados, desde a entrada até o preenchimento automático de formulários, além da armazenagem e segurança das informações.
+Esse site tenta ser uma altrnativa para empresas que prencher os mesmo formularios dia a pos dias e apresentar os comnhecimento de automções.
+Para facilitar eu criei esse layout interativo que facilita o processo onde voce grencia seus cadastros e pega os dados dos objetos cadastrados e 
+preenche de forma automatica formularios ou campos em outros sites 
 </p>
             </div>
-
-            <div class="alinhamentoh3">
-                <h3>FRONTEND:</h3>
-                <P> HTML + CSS + JS</P>
-            </div>
-
-            <div class="alinhamentoh3">
-                <h3>BACKEND:</h3>
-                <P>  SQL + JAVA + JS </P>
-            </div>
-    </section>
+        </section> 
 
 </main>
  

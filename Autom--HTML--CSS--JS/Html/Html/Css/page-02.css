@@ -303,4 +303,18 @@ color: rgb(100, 220, 160);
 }
 
 }
+#logout {
 
+margin-left: 25px;
+border: none;
+padding: 12px;
+font-size: 14px;
+display: flex;
+border-radius: 8px;
+text-align: start;
+cursor: pointer;
+background-color: #222222;
+
+ box-shadow: 2px 2px 5px rgb(100, 220, 160);
+
+}
