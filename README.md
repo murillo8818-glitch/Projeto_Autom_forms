@@ -3,7 +3,7 @@
                  AINDA NÃO FINALIZADO 
 
                  
-Não esta estruturado de forma correta e pode ter erros ainda estou aprendendo!
+Não esta estruturado ainda
 
 
 
