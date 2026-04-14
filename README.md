@@ -1,4 +1,4 @@
-# Projeto_Automação_Forms | HTML | CSS | JAVASCRIPT | JAVA | REACT |
+# Projeto_Automação | HTML | CSS | JAVASCRIPT | JAVA | REACT |
 
                  AINDA NÃO FINALIZADO 
 
